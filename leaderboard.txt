@@ -1,0 +1,52 @@
+
+Leaderboard:
+
+
+Name- Cuda
+Age- 0
+Number of questions- 1
+Score- 1 out of 1
+Percentage- 100.00%
+
+Name- Cuda
+Age- 16
+Number of questions- 10
+Score- 10 out of 10
+Percentage- 100.00%
+
+Name- Cuda
+Age- 18
+Number of questions- 4
+Score- 3 out of 4
+Percentage- 75.00%
+
+Name- Cida
+Age- 18
+Number of questions- 4
+Score- 3 out of 4
+Percentage- 75.00%
+
+Name- Cuda
+Age- 19
+Number of questions- 4
+Score- 2 out of 4
+Percentage- 50.00%
+
+Name- Cuda
+Age- 17
+Number of questions- 4
+Score- 3 out of 4
+Percentage- 75.00%
+
+Name- Yes
+Age- 17
+Number of questions- 1
+Score- 1 out of 1
+Percentage- 100.00%
+
+Name- Jess
+Age- 17
+Number of questions- 10
+Score- 9 out of 10
+Percentage- 90.00%
+
